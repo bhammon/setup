@@ -7,7 +7,7 @@ follows:
 
 ```sh
 cd $HOME
-apt-get update
+sudo apt-get update
 sudo apt-get install -y git-core
 git clone https://github.com/bhammon/setup.git
 ./setup/setup.sh   
